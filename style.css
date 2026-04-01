@@ -15,7 +15,7 @@ body {
 .square,
 .palette,
 .clear {
-    background: rgb(243, 241, 241);
+    background: rgb(34, 34, 34);
     flex-grow: 0;
     flex-shrink: 0;
     border: .2px solid rgb(66, 66, 66);
